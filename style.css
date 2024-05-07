@@ -1,0 +1,33 @@
+.titulo {
+color: olive;
+font-size: 98px;
+}
+
+h1{
+ font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+ color: blue;
+ text-align: center;
+}
+
+#subt{
+ color: darkslateblue;
+ text-align: center;
+}
+
+.cu {
+    color: gold;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+}
+
+body {
+    background-color: black;
+}
+
+.nego {
+    color: blueviolet;
+}
+
+.nhado {
+    background: deeppink;
+}
